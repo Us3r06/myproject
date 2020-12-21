@@ -23,3 +23,7 @@
 hs_err_pid*
 /target/
 /.settings/
+/.vscode/
+/.classpath
+.sts4-cache/classpath-data.json
+/.idea/
